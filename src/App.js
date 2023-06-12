@@ -25,7 +25,7 @@ function App() {
       action: authentication,
     },
     {
-      path: "ten-am-batch",
+      path: "/",
       element: <RootLayout />,
       errorElement: <PageNotFound />,
       children: [
