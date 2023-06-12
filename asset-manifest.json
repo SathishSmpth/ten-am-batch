@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ten-am-batch/static/css/main.599d62e2.css",
+    "main.js": "/ten-am-batch/static/js/main.f1ab76e4.js",
+    "static/js/787.8fa0b315.chunk.js": "/ten-am-batch/static/js/787.8fa0b315.chunk.js",
+    "index.html": "/ten-am-batch/index.html",
+    "main.599d62e2.css.map": "/ten-am-batch/static/css/main.599d62e2.css.map",
+    "main.f1ab76e4.js.map": "/ten-am-batch/static/js/main.f1ab76e4.js.map",
+    "787.8fa0b315.chunk.js.map": "/ten-am-batch/static/js/787.8fa0b315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.599d62e2.css",
+    "static/js/main.f1ab76e4.js"
+  ]
+}
