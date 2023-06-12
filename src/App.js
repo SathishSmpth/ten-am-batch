@@ -25,11 +25,11 @@ function App() {
       action: authentication,
     },
     {
-      path: "/ten-am-batch",
+      path: "",
       element: <RootLayout />,
       errorElement: <PageNotFound />,
       children: [
-        { path: "/", element: <LandPage /> },
+        { path: "", element: <LandPage /> },
         { path: "home", element: <Home /> },
         { path: "shows", element: <TvShows /> },
         { path: "sports", element: <Sports /> },
